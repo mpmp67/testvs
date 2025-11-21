@@ -1,6 +1,6 @@
 import pandas as pd
 
-print("hello again from git")
+print("hello again from github")
 # Create a simple DataFrame
 data = {
     "Name": ["Alice", "Bob", "Charlie"],
